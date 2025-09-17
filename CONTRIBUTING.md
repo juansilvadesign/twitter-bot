@@ -36,12 +36,12 @@ Before you begin, ensure you have:
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/juansilvadesign/twitter-bot.git
+   git clone https://github.com/<your-username>/twitter-bot.git
    cd twitter-bot
    ```
 3. **Add the original repository** as upstream:
    ```bash
-   git remote add upstream https://github.com/juansilvadesign/twitter-bot.git
+   git remote add upstream https://github.com/<your-username>/twitter-bot.git
    ```
 
 ## 🛠️ How to Contribute
