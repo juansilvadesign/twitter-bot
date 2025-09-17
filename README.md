@@ -122,7 +122,7 @@ ACCESS_TOKEN = 'your_access_token_here'
 ACCESS_TOKEN_SECRET = 'your_access_token_secret_here'
 
 # Login Credentials
-username.send_keys("your_email@example.com")
+username.send_keys("your_email@juansilva.design")
 password.send_keys("your_password")
 
 # ChromeDriver Path
@@ -345,7 +345,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Let's Connect! 🌟
 
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@juansilva.design)
+[![Email](https://img.shields.io/badge/Email-contact%40juansilva.design-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@juansilva.design)
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juansilvadesign/twitter-bot/issues)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juansilvadesign)
 
