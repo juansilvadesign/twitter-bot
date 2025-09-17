@@ -1,0 +1,18 @@
+# Twitter Automation Bot - Requirements
+# Core dependencies for Twitter API and web automation
+
+# Twitter API library
+tweepy>=4.14.0
+
+# Web automation and browser control
+selenium>=4.15.0
+
+# Random user agent generation for anti-detection
+fake-useragent>=1.4.0
+
+# Additional dependencies that may be required by the above packages
+certifi>=2023.7.22
+charset-normalizer>=3.3.0
+idna>=3.4
+requests>=2.31.0
+urllib3>=2.0.7
